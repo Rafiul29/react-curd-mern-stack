@@ -45,7 +45,7 @@ const deletename=(id)=>{
 
   return (
    
-    <div className='container my-5' style={{width: "80%"}}>
+    <div className='container my-5' style={{width: "35%"}}>
     <table className="table table-danger table-striped">
       <thead>
         <tr>
